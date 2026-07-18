@@ -1,0 +1,6 @@
+{
+  "name": "XtraGyan",
+  "description": "XtraGyan is an extra-knowledge marketplace connecting learners with subject matter experts across diverse domains with AI assistant support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
